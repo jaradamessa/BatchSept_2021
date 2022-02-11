@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18798" started-at="2022-02-11T12:04:38 CST" finished-at="2022-02-11T12:04:57 CST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18798" started-at="2022-02-11T12:04:38 CST" finished-at="2022-02-11T12:04:57 CST">
+      <class name="homework3.CRMTestNG">
+        <test-method status="PASS" signature="readConfig()[pri:0, instance:homework3.CRMTestNG@3e57cd70]" name="readConfig" is-config="true" duration-ms="14" started-at="2022-02-11T12:04:38 CST" finished-at="2022-02-11T12:04:38 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readConfig -->
+        <test-method status="PASS" signature="init()[pri:0, instance:homework3.CRMTestNG@3e57cd70]" name="init" is-config="true" duration-ms="5208" started-at="2022-02-11T12:04:38 CST" finished-at="2022-02-11T12:04:43 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="addContact()[pri:1, instance:homework3.CRMTestNG@3e57cd70]" name="addContact" duration-ms="7513" started-at="2022-02-11T12:04:43 CST" finished-at="2022-02-11T12:04:51 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addContact -->
+        <test-method status="PASS" signature="init()[pri:0, instance:homework3.CRMTestNG@3e57cd70]" name="init" is-config="true" duration-ms="3245" started-at="2022-02-11T12:04:51 CST" finished-at="2022-02-11T12:04:54 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="loginTest()[pri:2, instance:homework3.CRMTestNG@3e57cd70]" name="loginTest" duration-ms="2757" started-at="2022-02-11T12:04:54 CST" finished-at="2022-02-11T12:04:57 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- homework3.CRMTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
